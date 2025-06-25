@@ -79,4 +79,4 @@ Looking ahead, my goal is to deepen my expertise in DevOps practices, infrastruc
 
 This documentation is part of my contribution to the **Team 06 AltHub Project**.
 
-Feel free to connect with me on LinkedIn - [Connect with Me](www.linkedin.com/in/chidozie-ugwu-88313178)
+Feel free to connect with me on LinkedIn - [Connect with Me](https://linkedin.com/in/chidozie-ugwu-88313178)
