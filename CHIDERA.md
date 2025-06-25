@@ -12,21 +12,22 @@ Cloud Engineering
 ## Learning Experience✨
 During my journey at AltSchool Africa, I have gained comprehensive knowledge and hands-on experience in:
 
-Frontend
+## Frontend 
 - Web development and its interactivity
 
+## Cloud Engineering
 Cloud computing and its Infrastructure
 - Cloud computing concepts and service models (IaaS, PaaS, SaaS)
 - Cloud deployment models (Public, Private, Hybrid, Multi-cloud)
 
-Linux and System Administration
+**Linux and System Administration**
 - Linux command line proficiency
 - Shell scripting and automation
 - System monitoring and troubleshooting
 - Linux/Unix commands
 - Linux I/O redirections
 
- Amazon Web Services (AWS)
+ **Amazon Web Services (AWS)**
 -  AWS Core Services (EC2, S3, RDS, VPC, IAM)
 -  AWS Storage and Database Services
 - Network Security
@@ -47,7 +48,7 @@ Infrastructure as code (IaC)
 Description: Altschool semester projects on Web development.
 
 ### 2. ClicKart 
-Description:Building a scalable e-commerce rendering.
+Description: Building a scalable e-commerce rendering.
 - Provisioning and deploy using AWS EC2.
 - Storage using AWS S3 bucket.
 
@@ -56,42 +57,42 @@ Description:Building a scalable e-commerce rendering.
 
 ## Tools and Platforms Used
 
-Cloud Platforms
+**Cloud Platforms**
 - Amazon Web Services (AWS)
 - AWS Management Console
 - AWS CLI
 
-Infrastructure & DevOps Tools
+**Infrastructure & DevOps Tools**
 - Terraform
 - Git & GitHub
 
-Development Environment
+**Development Environment**
 - Visual Studio Code
 - Linux (Ubuntu)
 - Bash/Shell Scripting
 
-Development Tools
-- PYTHON
-- HTML  
-- CSS
-- JS
+**Development Tools**
+- `PYTHON`
+- `HTML`  
+- `CSS`
+- `JS`
 
-Networking & Security
+**Networking & Security**
 - AWS VPC
 - AWS Security Groups
 - UFW
 - AWS IAM
 - AWS IAM Identity Centre
-- SSL/TLS Certificate
+- SSL Certificate
 
 ### Conclusion ✅
 
 My journey in Altschool Africa has been a tough but productive experience. I have undoubtedly learnt so much and still in the learning process.
 
-*GOALS*
+**GOALS**
 - A certified Cloud engineer
 - Able to provide long-term solutions to Tech-related problems
-- Able to collaborate effectively and efficiently with mt future colleagues
+- Able to collaborate effectively and efficiently with my future colleagues
 - Everything on scalability, flexibility and efficiency.
 
 
