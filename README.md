@@ -7,80 +7,53 @@ This file contains a detailed overview of my learning journey, projects, tools, 
 
 ## ✏️ About Me
 
-- **Name:** [Your Full Name]
-- **Track:** [Your Track, e.g., Cloud Engineering]
+- **Name:** [Eze Ogonna Cynthia]
+- **Track:** [Cybersecurity]
 
 ---
 
 ## 📚 Things I Have Learned at AltSchool
 
-Briefly list or describe the key concepts, topics, and skills you have learned. Use bullet points for clarity.
-
-**Examples:**
-
-- Fundamentals of Computer Science
-- HTML, CSS, and JavaScript
-- Git and GitHub
-- Cloud Computing Basics
-- Version Control and Collaboration
-- DevOps Practices
-- Building APIs
-- Databases and SQL
-- Agile Methodologies
+- Cybersecurity Fundamentals, Frameworks, Standards, Compliance, and Requirements
+- Encryption and Traffic Analysis using Openssl and Wireshark
+- Public key Infrastructure Setup
+- Network security and models
+- Cryptography
+- Endpoint Security
+- Data privacy, Intellectual Property and Copyright laws
+- Cloud Security
+- Identity and Access Management
 
 ---
 
-## 💻 Applications, Interfaces, and Websites I Have Built
+## Projects taht i have worked on
 
-List and describe the projects you have worked on so far. Mention the purpose of each and the technologies used.
-
-**Examples:**
-
-- **Portfolio Website** — A personal portfolio built with HTML, CSS, and JavaScript.
-- **To-Do List App** — A task management app using React and Firebase.
-- **Weather App** — A weather forecast app using REST APIs.
-- **Student Registration System** — A web application built with Django.
 - **AltHub Project** — Part of Team 06 collaborative project.
 
 ---
 
-## 🛠️ Tools I Have Used
+## 🛠️ Tools and Softwares that I Have Used
 
-List the tools and software you have used throughout your learning journey.
-
-**Examples:**
-
-- VS Code
 - Git & GitHub
-- Postman
-- Docker
-- Figma
+- Visual Studio code
+- Cisco Packet Tracer
 - Slack
-- Trello
-- AWS / Azure / Google Cloud
+- Wireshark
+- AWS and Google Cloud services
 
 ---
 
 ## 🌐 Platforms I Have Worked With
 
-Mention the platforms, frameworks, and services you have practiced with.
-
-**Examples:**
-
-- Linux / Ubuntu
-- AWS EC2
-- Heroku
-- Netlify
-- Firebase
-- Docker Hub
-- CI/CD Pipelines
-- GitHub Actions
-
+- Linux OS ( Kali and Ubuntu)
+- AWS EC2, IAM and S3
+- LetsDefend
+- Tryhackme
+- Windows OS
 ---
 
 ## ✅ Conclusion
-
-Feel free to add any additional thoughts, lessons learned, or your goals for the rest of your AltSchool program.
+My cybersecurity journey at AltSchool has equipped me with essential skills to protect and secure digital systems and i am  excited to continue growing and making a positive impact in the field.
 
 ---
 
