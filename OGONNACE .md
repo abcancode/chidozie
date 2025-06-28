@@ -7,7 +7,7 @@ This file contains a detailed overview of my learning journey, projects, tools, 
 
 ## ✏️ About Me
 
-- **Name:** [Your Full Name]
+- **Name:**Eze Ogonna Cynthia
 - **Track:** [Your Track, e.g., Cloud Engineering]
 
 ---
