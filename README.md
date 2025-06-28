@@ -26,7 +26,7 @@ This file contains a detailed overview of my learning journey, projects, tools, 
 
 ---
 
-## Projects taht i have worked on
+## Projects that i have worked on
 
 - **AltHub Project** — Part of Team 06 collaborative project.
 
